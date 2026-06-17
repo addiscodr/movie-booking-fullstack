@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "170775739646",
+    "project_id": "addis-chat-app-v1",
+    "storage_bucket": "addis-chat-app-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170775739646:android:9794cf28fa50b01bb1b9af",
+        "android_client_info": {
+          "package_name": "com.addiscodr.addis_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_MfsdK1-yXTcOGAD9d-AQVPcZBYOf5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170775739646:android:db8c8af5bd6a2a25b1b9af",
+        "android_client_info": {
+          "package_name": "com.addiscodr.car_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_MfsdK1-yXTcOGAD9d-AQVPcZBYOf5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170775739646:android:16d0365a21073abcb1b9af",
+        "android_client_info": {
+          "package_name": "com.addiscodr.movie_booking_front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_MfsdK1-yXTcOGAD9d-AQVPcZBYOf5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170775739646:android:1f19bdb1eb2776b4b1b9af",
+        "android_client_info": {
+          "package_name": "com.addiscodr.movie_booking_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_MfsdK1-yXTcOGAD9d-AQVPcZBYOf5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170775739646:android:f581c47a0f251f78b1b9af",
+        "android_client_info": {
+          "package_name": "com.addiscodr.shoppers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_MfsdK1-yXTcOGAD9d-AQVPcZBYOf5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

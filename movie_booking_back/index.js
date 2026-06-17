@@ -11,10 +11,6 @@ app.use(express.json());
 
 const stripe = Stripe(process.env.STRIPE_SECRET_KEY);
 
-app.get('/', (req, res) => {
-  res.json({ success: true, message: 'Movie Booking Stripe Backend Running' });
-});
-
 app.post('/create-payment-intent', async (req, res) => {
   try {
     const { amount } = req.body;
